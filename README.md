@@ -1,8 +1,6 @@
 # GUI-for-Pyinstaller
 Software that provides an interface to the Pyinstaller python module
 
-Hi guys!
-
 I developed this software which provides an interface to the Python Pyinstaller module, 
 used to convert .py files into executables.
 
